@@ -11,5 +11,21 @@
       "q_alumnos": 46
     }
   ]
+  "posts" : [
+    {
+      "id" : 1,
+      "title" : "Hello"
+    },
+    {
+      "id" : 2,
+      "title" : "java"
+    },
+     {
+      "id" : 3,
+      "title" : "Word"
+    }
+  ], 
+  "profile" :{
+    "name" : "typicode"
+  }
 }
-
